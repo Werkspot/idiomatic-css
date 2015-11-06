@@ -328,13 +328,6 @@ An example of various conventions.
 .cell-4 { width: 40%; }
 .cell-5 { width: 50%; }
 
-/* Cell modifiers
-   ========================================================================== */
-
-.cell--detail,
-.cell--important {
-    border-width: 4px;
-}
 ```
 
 
